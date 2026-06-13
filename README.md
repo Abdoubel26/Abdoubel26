@@ -8,11 +8,10 @@
 
 <div align="center">
 
-# 🚀 Abdoubel26 | Full-Stack Developer
+# 🚀 Abdou | Full-Stack Developer
 
-### 16-Year-Old Building the Future 🚀
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&width=600&lines=Full-Stack+Developer;MERN+%2F+PERN+Proficient;Next.js+Enthusiast;TypeScript+First" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&width=600&lines=Full-Stack+Developer;MERN+%2F+PERN+Programmer;Next.js+Enthusiast;TypeScript+Lover;Python+Tinkerer" alt="Typing animation" />
 
 ---
 
@@ -45,25 +44,6 @@
 
 ---
 
-## 🏆 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| 🎯 **[Glad](https://github.com/Abdoubel26/Glad)** | Full-featured app platform | MERN/PERN |
-| 🗣️ **[Debatria](https://github.com/Abdoubel26/Debatria)** | Debate & discussion platform | Next.js, React |
-| 💬 **[QuickChat](https://github.com/Abdoubel26/QuickChat)** | Real-time messaging app | Node.js, MongoDB |
-| 🐦 **[Twitter Clone](https://github.com/Abdoubel26/twitter-clone)** | Social media platform | React, Firebase |
-| 💰 **[Financial Manager](https://github.com/Abdoubel26/financial-manager)** | Personal finance tracker | MERN Stack |
-| 🤖 **[Google Gemini Clone](https://github.com/Abdoubel26/Google-Gemini-clone)** | AI assistant interface | React, API Integration |
-| 📊 **[Inventory Manager](https://github.com/Abdoubel26/inventory-manager)** | Stock & inventory tracker | MERN/PERN |
-| 🧘 **[Mindful Scroll](https://github.com/Abdoubel26/mindful-scroll)** | Wellness tracking app | React, Tailwind |
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -87,8 +67,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdou_belounis)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoubel26)
 
-**Feel free to reach out for collaborations, questions, or just to chat about tech!**
-
 </div>
 
 ---
@@ -97,13 +75,8 @@
 
 ```
 ╔════════════════════════════════════════════════════════╗
-║  Made with 💜 by Abdoubel26                           ║
+║              Made with 💜 by Abdou                    ║
 ║  Full-Stack Developer | Always Growing & Learning      ║
-║                                                        ║
-║              Keep Coding, Keep Growing! 🚀             ║
 ╚════════════════════════════════════════════════════════╝
 ```
-
-*Last Updated: June 2026 | Always up to date with the latest tech* 🔄
-
 </div>
