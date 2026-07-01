@@ -1,11 +1,3 @@
-```
-╔════════════════════════════════════════════════════════════════════════════╗
-║                                                                            ║
-║                     👋 Welcome to My Digital Playground                    ║
-║                                                                            ║
-╚════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
 
 # 🚀 Abdou | Full-Stack Developer
@@ -53,16 +45,4 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abdou_belounis)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdoubel26)
 
-</div>
-
----
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════╗
-║              Made with 💜 by Abdou                    ║
-║  Full-Stack Developer | Always Growing & Learning      ║
-╚════════════════════════════════════════════════════════╝
-```
 </div>
