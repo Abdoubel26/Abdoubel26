@@ -1,8 +1,5 @@
 <div align="center">
 
-# 🚀 Abdou | Full-Stack Developer
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&width=600&lines=Full-Stack+Developer;MERN+%2F+PERN+Programmer;Next.js+Enthusiast;TypeScript+Wizard" alt="Typing animation" />
 
 ---
