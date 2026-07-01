@@ -44,20 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Abdoubel26's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdoubel26&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoubel26&theme=radical&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdoubel26&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🌐 Let's Connect!
 
 <div align="center">
